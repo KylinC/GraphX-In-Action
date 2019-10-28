@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/hadoop/IdeaProjects/sbt1/target/scala-2.12/sbt1_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/sbt1/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloworld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/sbt1/target/scala-2.12/classes/helloworld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloworld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/IdeaProjects/sbt1/target/scala-2.12/classes/helloworld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
